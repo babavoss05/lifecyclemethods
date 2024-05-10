@@ -26,13 +26,13 @@ Step 6: Display message give in MainActivity file.
 Step 7: Save and run the application.
 
 ## PROGRAM:
-/*
-Program to print the text “Hello World”.
-Developed by: Gokul
-Registeration Number : 212221220013
-*/
+
+Program to print the text “Hello World”. <br>
+Developed by: Gokul <br>
+Registeration Number : 212221220013 <br>
+
 ### In mainactivity.xml:
-```kotlin
+``` xml
 <?xml version="1.0" encoding="utf-8"?>
 <androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
